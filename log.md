@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 0: March 20th, 2019 
 
 **Today's Progress**: Set up environments and identified challenges for Day 1.
