@@ -1,5 +1,4 @@
 ### Day 0: March 20th, 2019 Wednesday
->>>>>>> 7a0b87af21e10c321642f012144c5da198fea5ea
 
 **Today's Progress**: Set up environments and identified challenges for Day 1.
 
