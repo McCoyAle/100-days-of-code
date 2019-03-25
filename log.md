@@ -38,18 +38,49 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 1. [Exercise 4 - Math and Variables](https://github.com/McCoyAle/100-days-of-code/blob/master/python-hardway/ex4/ex4.py)
 
 
-### Day 3: March 22nd, 2019 Friday
+### Day 4: March 23rd, 2019 Saturday
+
+**Today's Progress**: Worked on exercise 5. 
+
+**Thoughts** Completed Exercise 5 for variables and printing. Forgot to upload log entry although exercise was uploaded. I decided to continue to work with Python in order to better understand fundamentals. 
+
+**Link(s) to work**
+
+1. [Exercise 5 - Variables and Printing](https://github.com/McCoyAle/100-days-of-code/blob/master/python-hardway/ex5/ex5.py)
 
 
-### Day 3: March 22nd, 2019 Friday
+### Day 5: March 24th, 2019 Sunday
+
+**Today's Progress**: I did not code at all.
+
+**Thoughts** I had to travel for work and did not have time to code. This will be my one day of not coding within a two week period.
+
+**Link(s) to work**
+
+1. N/A
 
 
-### Day 3: March 22nd, 2019 Friday
+### Day 6: March 25th, 2019 Monday
 
 
-### Day 3: March 22nd, 2019 Friday
+### Day 7: March 26th, 2019 Tuesday
 
 
-### Day 3: March 22nd, 2019 Friday
+### Day 8: March 27th, 2019 Wednesday
+
+
+### Day 8: March 28th, 2019 Thursday
+
+
+### Day 8: March 29th, 2019 Friday
+
+
+### Day 8: March 30th, 2019 Saturday
+
+
+### Day 8: March 31st, 2019 Sunday
+
+
+### Day 8: April 1st, 2019 Monday
 
 
