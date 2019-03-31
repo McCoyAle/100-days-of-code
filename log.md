@@ -60,10 +60,22 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 1. N/A
 
 
-### Day 6: March 25th, 2019 Monday
+### Day 6: March 28th, 2019 Thursday
+
+**Today's Progress**: I coded exercises 6-10 for a couple of hours.
+
+**Thoughts** I was out of town for work, and was not able to code due to container platform training all week. Picked up on a couple of exercises to catch up. I've not uploaded the chapter 10 folder. 
+
+**Link(s) to work**
+
+1. [Exercise 6](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex6)
+2. [Exercise 7](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex7)
+3. [Exercise 8](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex8)
+4. [Exercise 9](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex9)
+5. [Exercise 10](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex10)
 
 
-### Day 7: March 26th, 2019 Tuesday
+### Day 7: March 30th, 2019 Saturday
 
 
 ### Day 8: March 27th, 2019 Wednesday
