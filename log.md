@@ -83,7 +83,7 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 
 **Link(s) to work**
 
-1. [Exercise 11 - Raw Input Function(https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex11)
+1. [Exercise 11 - Raw Input Function](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex11)
 
 
 ### Day 8: March 27th, 2019 Wednesday
