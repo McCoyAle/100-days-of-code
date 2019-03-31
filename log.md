@@ -77,6 +77,14 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 
 ### Day 7: March 30th, 2019 Saturday
 
+**Today's Progress**: I coded examples for exercise 11.
+
+**Thoughts**: I just worked on raw_input funtion. This exercise seemed a bit more interesting than the previous. 
+
+**Link(s) to work**
+
+1. [Exercise 11 - Raw Input Function(https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex11)
+
 
 ### Day 8: March 27th, 2019 Wednesday
 
