@@ -86,21 +86,34 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 1. [Exercise 11 - Raw Input Function](https://github.com/McCoyAle/100-days-of-code/tree/master/python-hardway/ex11)
 
 
-### Day 8: March 27th, 2019 Wednesday
-
-
-### Day 8: March 28th, 2019 Thursday
-
-
-### Day 8: March 29th, 2019 Friday
-
-
-### Day 8: March 30th, 2019 Saturday
-
-
-### Day 8: March 31st, 2019 Sunday
-
-
 ### Day 8: April 1st, 2019 Monday
 
+**Today's Progress**: I coded in Golang today. 
 
+**Thought**: I switched from Python to Go. I was not interested in JavaScript and Python started to get a bit boring. Or maybe it was the exercises that I was doing. However, Golang held my interest and since I have absolutely no clue about it, it helps me to focus more. I am using this book [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) The chapters are short and sweet and focus on some sort of functionality. At the end it follows up with some exercies to implement what you read. I like the straight to the point and then code. I am using it as an introduction and then will follow up with my Go book or just dive into a project that utilizes the language. Another thing that I noticed, is since starting this project I understand git a lot better. I have been using it for open source K8s project, but did not really understand. So pushing to this repo has helped tremendously.
+
+**Link(s) to work**
+
+1. [Chapter 2 - Golang HelloWorld App](https://github.com/McCoyAle/100-days-of-code/tree/master/golang/golang-book/chapter2)
+2. [Chapter 3 - Types](https://github.com/McCoyAle/100-days-of-code/tree/master/golang/golang-book/chapter3)
+3. [Chapter 4 - Variables](https://github.com/McCoyAle/100-days-of-code/tree/master/golang/golang-book/chapter4)
+4. [Chapter 4 - Convert Farenheit to Celcius](https://github.com/McCoyAle/100-days-of-code/blob/master/golang/golang-book/chapter4/main4.go)
+5. [Chapter 4 - Convert feet to meters](https://github.com/McCoyAle/100-days-of-code/blob/master/golang/golang-book/chapter4/main5.go)
+
+
+### Day 9: April 2nd, 2019 Tuesday
+
+**Today's Progress**:
+
+**Thought**:
+
+**Link(s) to work**
+
+
+### Day 10: April 3rd, 2019 Wednesday
+
+**Today's Progress**:
+
+**Thought**:
+
+**Link(s) to work**
