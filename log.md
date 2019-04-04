@@ -101,16 +101,18 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 5. [Chapter 4 - Convert feet to meters](https://github.com/McCoyAle/100-days-of-code/blob/master/golang/golang-book/chapter4/main5.go)
 
 
-### Day 9: April 2nd, 2019 Tuesday
+### Day 10: April 3rd, 2019 Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Coded in Golang and worked on Control Structures.
 
-**Thought**:
+**Thought**: Today's examples were a bit more difficult. Missing a day in Go feels different from missing a day in Python. However, I will keep pushing. I could not figure out how to print text for a variable divisable by both 3 and 5 in my third example. I had a long day so it could just be a mental block. I will work on it some more. Also need to reread on usage of Go's logical operators.
 
 **Link(s) to work**
+1. [Chapter 5 - Control Structures - FizzBuzz](https://github.com/McCoyAle/100-days-of-code/blob/master/golang/golang-book/chapter5/main2.go)
+2. [Chapter 5 - Print Numbers Divisible by 3](https://github.com/McCoyAle/100-days-of-code/blob/master/golang/golang-book/chapter5/main1.go)
 
 
-### Day 10: April 3rd, 2019 Wednesday
+### Day 9: April 4th, 2019 Thursday
 
 **Today's Progress**:
 
