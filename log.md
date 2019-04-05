@@ -114,6 +114,15 @@ I am also setting up my environment for JavaScript and doing some reading on it 
 
 ### Day 9: April 4th, 2019 Thursday
 
+**Today's Progress**: Finished updating exercise 5 and completed half of 6. 
+
+**Thought**: Today's subject was arrays. The second half of the chapter is slices, however since I had a long day I am not really thinking clearly so I will complete the rest tomorrow. Arrays and Slices I understand from a simplistic perspective but when time to implement, I don't necessarily know what to do. So I will need to spend a little bit more time on this chapter and possibly find external exercises to work on as well so that it sticks with me in Golang.
+
+**Link(s) to work**
+1. [Chapter 6 - Arrays and Slices](https://github.com/McCoyAle/100-days-of-code/tree/master/golang/golang-book/chapter6)
+
+### Day 9: April 5th, 2019 Friday
+
 **Today's Progress**:
 
 **Thought**:
